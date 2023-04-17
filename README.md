@@ -1,5 +1,5 @@
 # Hello there!
-My name is Deilan Raj, newbie cybersecurity student that is learning hacking, networking and bash. <br />
+My name is Muhammad Lubega, newbie cybersecurity student that is learning hacking, networking and bash. <br />
 
 ## :mega: This profile is still in construction :mega: <br />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhdlubega&show_icons=true&theme=onedark&hide=contribs,prs,issues) <br />
