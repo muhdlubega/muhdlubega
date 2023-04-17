@@ -1,5 +1,5 @@
 # Hello there!
-My name is Muhammad Lubega, newbie cybersecurity student that is learning hacking, networking and bash. <br />
+My name is Muhammad Lubega, newbie student who is interested in programming and currently still in the process of learning. <br />
 
 ## :mega: This profile is still in construction :mega: <br />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight) <br />
