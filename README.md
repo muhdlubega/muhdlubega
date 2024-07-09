@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Lubega</h1>
-<h3 align="center">I am a newbie student who is interested in programming and currently still in the process of learning. Check out my work! <br /></h3>
+<h3 align="center">I am a frontend developer who is interested in learning and trying out new things. Check out my work! <br /></h3>
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhdlubega&show_icons=true&theme=tokyonight) <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhdlubega&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
